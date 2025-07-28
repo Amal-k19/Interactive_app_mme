@@ -18,7 +18,7 @@ A cross-platform desktop GUI built with **PyQt5** that listens to serial command
 
 ## 🖥️ Demo
 
-![UI Screenshot](ui.png)  
+![UI Screenshot](ui.png) 
 _
 ---
 
