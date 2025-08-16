@@ -1,0 +1,15 @@
+# Force all Python files to be detected as Python
+*.py linguist-language=Python
+
+# Ignore non-code files for language statistics
+*.md linguist-vendored
+*.txt linguist-vendored
+*.json linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.csv linguist-vendored
+*.ico linguist-vendored
